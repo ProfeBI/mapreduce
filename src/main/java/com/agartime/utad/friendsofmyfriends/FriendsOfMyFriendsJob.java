@@ -56,8 +56,7 @@ public class FriendsOfMyFriendsJob extends Configured implements Tool {
         return 0;
     }
 
-    public static void main(String args[]) throws Exception {
-        ToolRunner.run(new FriendsOfMyFriendsJob(), args);
+    public static void main(String args[]) throws Ex
     }
 
-}
+}111
